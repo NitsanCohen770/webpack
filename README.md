@@ -1,1 +1,1 @@
-is a webpack course project
+This is a webpack course project
